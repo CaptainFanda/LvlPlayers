@@ -1,0 +1,6 @@
+PolitGame\TheFandik\LvlExpansion.class
+PolitGame\TheFandik\ConfigData.class
+PolitGame\TheFandik\Commands\LvlExecutor.class
+PolitGame\TheFandik\Listener\FirstJoinListener.class
+PolitGame\TheFandik\Service\UpgradeRewards.class
+PolitGame\TheFandik\CF_LvlPlayers.class
