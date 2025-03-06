@@ -1,8 +1,0 @@
-name: CF_LvlPlayers
-version: '1.2.1'
-main: PolitGame.TheFandik.CF_LvlPlayers
-api-version: '1.21'
-
-commands:
-  lvl:
-    aliases: [l, lv, playerLvl]
